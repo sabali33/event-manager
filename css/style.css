@@ -1,0 +1,14 @@
+.event-list-container, .event-container {
+	width: 1128px;
+	margin: 0 auto;
+}
+.event-list ul {
+	list-style: none;
+}
+.event-meta > div {
+	display: block;
+	margin-bottom: 20px;
+}
+.event-item {
+	border-bottom: solid thin grey;
+}

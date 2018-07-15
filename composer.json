@@ -1,0 +1,13 @@
+{
+    "name": "sabale/event-manager",
+    "description": "A plugin for managing events",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eliasu Abraman",
+            "email": "sabalisfi@yahoo.com"
+        }
+    ],
+    "require": {}
+}
