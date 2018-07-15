@@ -2,7 +2,7 @@
 	width: 1128px;
 	margin: 0 auto;
 }
-.event-list ul {
+.event-list ul, .event-container ul {
 	list-style: none;
 }
 .event-meta > div {
